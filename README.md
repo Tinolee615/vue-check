@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # xianqiqi
 
 > A Vue.js project
@@ -28,3 +29,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue-check
+vue+element-ui实现多个大区省市区（县）的选择check
+>>>>>>> fce3c2bc939ef01ebd186e1ec906dae5025181a5
